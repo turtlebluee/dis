@@ -13,7 +13,7 @@ var l_serverImage = "https://images.cooltext.com/5245864.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Thunder Deathrun";
+var l_serverName = "Disease MilitaryRP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -81,13 +81,13 @@ var l_bgDarkening = 50;
 var l_music = true;
 
 /*Display actual song's name?*/
-var l_musicDisplay = false;
+var l_musicDisplay = true;
 
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-        {youtube: "QiDa2BHI5PY", name: "BF3"},
-		 {youtube: "-uEc8_dcYUc", name: "BF4"},
+        {youtube: "QiDa2BHI5PY", name: "Disease Soundtrack"},
+        {youtube: "-uEc8_dcYUc", name: "Disease Soundtrack"},
 	
 ];
 
@@ -99,19 +99,17 @@ Choose a value between 0 and 100*/
 var l_musicVolume = 100;
 
 /*Enable custom messages?*/
-var l_messagesEnabled = false;
+var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Thunder Deathrun'a Hoşgeldiniz!",
-"Eğlenmeyi Unutmayın.",
-"Thunder Deathrun heriporter22 Tarafından Geliştirilmektedir.",
+"Disease Military Roleplay'e Hoşgeldiniz!",
+"Kurallara Uyunuz!",
 "Herkes Birbirine Saygılı Olmak Zorundadır.",
-"Thunder Deathrun heriporter22 Tarafından Geliştirilmektedir.",
 ];
 
 /*Random message order?*/
-var l_messagesRandom = false;
+var l_messagesRandom = true;
 
 /*Delay between message changes
 in milliseconds*/
