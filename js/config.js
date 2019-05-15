@@ -9,7 +9,7 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "https://images.cooltext.com/5245864.png";
+var l_serverImage = "https://resimag.com/i/408207d349f";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
