@@ -45,7 +45,7 @@ Avaiable options:
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "backgrounds/videos/bluefall.webm";
+var l_background = "backgrounds/videos/rain.webm";
 
 /*(Image-background only)
 Place one or more images
