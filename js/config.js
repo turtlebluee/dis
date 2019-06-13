@@ -121,9 +121,7 @@ var l_bgImages = [
 	
 	"backgrounds/images/8.jpg",
 	
-	"backgrounds/images/9.jpg",
-	
-	"backgrounds/images/10.jpg"
+	"backgrounds/images/9.jpg"
 
 ];
 
