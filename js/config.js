@@ -9,11 +9,11 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "https://resimag.com/i/408207d349f";
+var l_serverImage = "https://images.cooltext.com/5300028.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Disease MilitaryRP";
+var l_serverName = "Thunder";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -51,9 +51,16 @@ var l_background = "backgrounds/videos/rain.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/1.jpg",
-    "backgrounds/images/3.jpg",
-	"backgrounds/images/4.jpg"
+	"backgrounds/images/1.png",
+	"backgrounds/images/2.png"
+        "backgrounds/images/3.png",
+	"backgrounds/images/4.png",
+	"backgrounds/images/5.png",
+	"backgrounds/images/6.png",
+	"backgrounds/images/7.png",
+	"backgrounds/images/8.png",
+	"backgrounds/images/9.png",
+	"backgrounds/images/10.png",
 ];
 
 /*Random background images order?*/
@@ -78,7 +85,7 @@ var l_bgDarkening = 50;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
-var l_music = true;
+var l_music = false;
 
 /*Display actual song's name?*/
 var l_musicDisplay = false;
@@ -86,8 +93,7 @@ var l_musicDisplay = false;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-      {ogg: "songs/theme1.ogg", name: "Disease Soundtrack"},
-      {ogg: "songs/theme2.ogg", name: "Disease Soundtrack"}
+
 ];
 
 /*Random music order?*/
@@ -102,9 +108,10 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Disease Military Roleplay'e Hoşgeldiniz!",
-"Kurallara Uyunuz!",
-"Herkes Birbirine Saygılı Olmak Zorundadır.",
+"Thunder Roleplay'e hoşgeldiniz!",
+"Kurallara uyunuz!",
+"Herkes birbirine saygılı olmak zorundadır.",
+"Oynamaktan keyif almanızı umuyoruz!",
 ];
 
 /*Random message order?*/
