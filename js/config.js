@@ -60,7 +60,7 @@ var l_bgImages = [
 	"backgrounds/images/7.png",
 	"backgrounds/images/8.png",
 	"backgrounds/images/9.png",
-	"backgrounds/images/10.png",
+	"backgrounds/images/10.png"
 ];
 
 /*Random background images order?*/
@@ -111,7 +111,7 @@ var l_messages = [
 "Thunder Roleplay'e hoşgeldiniz!",
 "Kurallara uyunuz!",
 "Herkes birbirine saygılı olmak zorundadır.",
-"Oynamaktan keyif almanızı umuyoruz!",
+"Oynamaktan keyif almanızı umuyoruz!"
 ];
 
 /*Random message order?*/
